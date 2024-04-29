@@ -62,7 +62,22 @@
       }
     ],
     "todo":[{},{}],
-    "movies":[{}],
+
+    "movies":[
+          {
+      "id": 1,
+      "name": "Rehan",
+      "email": "rehan@gmail.com"
+  
+    },
+    {
+      "id": 2,
+      "name": "khan",
+      "email": "khan@gmail.com"
+
+    }
+    ],
+    "Foods":[{},{}],
     "books":[
       {
         "id": 1,
@@ -256,3 +271,4 @@
       }
     ]
   }
+
