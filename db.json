@@ -102,7 +102,11 @@
         "id": 2,
         "no_of_chapters": 6,
         "author": "Masai",
+<<<<<<< HEAD
         "cover_photo": "https://img.freepik.com/free-psd/marketing-business-print-template_23-2148990530.jpg?size=626&ext=jpg&ga=GA1.1.1577624159.1709653196&semt=ais",
+=======
+        "cover_photo": "https://m.media-amazon.com/images/I/61aJc8wQX4L._SL1400_.jpg",
+>>>>>>> 82c402890b95d21dc0cedb9c5274730d88df45be
         "book_name": "Full-Stack Web Development",
         "category": "Science_Fiction",
         "release_year": 2020,
@@ -121,7 +125,11 @@
         "id": 3,
         "no_of_chapters": 6,
         "author": "Masai",
+<<<<<<< HEAD
         "cover_photo": "https://img.freepik.com/free-vector/gradient-travel-agency-annual-report-template_23-2149404112.jpg?size=626&ext=jpg&ga=GA1.1.1577624159.1709653196&semt=ais",
+=======
+        "cover_photo": "https://m.media-amazon.com/images/I/61aJc8wQX4L._SL1400_.jpg",
+>>>>>>> 82c402890b95d21dc0cedb9c5274730d88df45be
         "book_name": "Full-Stack Web Development",
         "category": "Novel",
         "release_year": 2021,
@@ -140,7 +148,11 @@
         "id": 4,
         "no_of_chapters": 6,
         "author": "Masai",
+<<<<<<< HEAD
         "cover_photo": "https://img.freepik.com/free-vector/abstract-elegant-winter-book-cover_23-2148798745.jpg?w=740&t=st=1715005915~exp=1715006515~hmac=5c88b9b9180a5188072e6b113ce4b4adf6d64d8e6557d644b89407c7661470cb",
+=======
+        "cover_photo": "https://m.media-amazon.com/images/I/61aJc8wQX4L._SL1400_.jpg",
+>>>>>>> 82c402890b95d21dc0cedb9c5274730d88df45be
         "book_name": "Full-Stack Web Development",
         "category": "Science_Fiction",
         "release_year": 2022,
@@ -159,7 +171,11 @@
         "id": 5,
         "no_of_chapters": 6,
         "author": "Masai",
+<<<<<<< HEAD
         "cover_photo": "https://img.freepik.com/free-vector/abstract-business-book-cover-template_23-2148726776.jpg?w=740&t=st=1715006130~exp=1715006730~hmac=9f5fd4ccb6418f91190d180631bdf4551f2f961dd17ea6776aa26cd5f5c01ac9",
+=======
+        "cover_photo": "https://m.media-amazon.com/images/I/61aJc8wQX4L._SL1400_.jpg",
+>>>>>>> 82c402890b95d21dc0cedb9c5274730d88df45be
         "book_name": "Full-Stack Web Development",
         "category": "Thriller",
         "release_year": 2018,
@@ -178,7 +194,11 @@
         "id": 6,
         "no_of_chapters": 6,
         "author": "Masai",
+<<<<<<< HEAD
         "cover_photo": "https://bookspringindia.in/cdn/shop/products/zerotoone_1024x1024@2x.png?v=1626280816",
+=======
+        "cover_photo": "https://m.media-amazon.com/images/I/61aJc8wQX4L._SL1400_.jpg",
+>>>>>>> 82c402890b95d21dc0cedb9c5274730d88df45be
         "book_name": "Full-Stack Web Development",
         "category": "Thriller",
         "release_year": 2017,
@@ -197,7 +217,11 @@
         "id": 7,
         "no_of_chapters": 6,
         "author": "Masai",
+<<<<<<< HEAD
         "cover_photo": "https://i0.wp.com/dariusforoux.com/wp-content/uploads/2018/06/Do-It-Today-bookcover.png?ssl=1",
+=======
+        "cover_photo": "https://m.media-amazon.com/images/I/61aJc8wQX4L._SL1400_.jpg",
+>>>>>>> 82c402890b95d21dc0cedb9c5274730d88df45be
         "book_name": "Full-Stack Web Development",
         "category": "Novel",
         "release_year": 2016,
@@ -216,7 +240,11 @@
         "id": 8,
         "no_of_chapters": 6,
         "author": "Masai",
+<<<<<<< HEAD
         "cover_photo": "https://i0.wp.com/dariusforoux.com/wp-content/uploads/2018/06/Do-It-Today-bookcover.png?ssl=1 ",
+=======
+        "cover_photo": "https://m.media-amazon.com/images/I/61aJc8wQX4L._SL1400_.jpg",
+>>>>>>> 82c402890b95d21dc0cedb9c5274730d88df45be
         "book_name": "Full-Stack Web Development",
         "category": "Science_Fiction",
         "release_year": 2015,
@@ -235,7 +263,11 @@
         "id": 9,
         "no_of_chapters": 6,
         "author": "Masai",
+<<<<<<< HEAD
         "cover_photo": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781639363261/shakespeares-book-9781639363261_lg.jpg",
+=======
+        "cover_photo": "https://m.media-amazon.com/images/I/61aJc8wQX4L._SL1400_.jpg",
+>>>>>>> 82c402890b95d21dc0cedb9c5274730d88df45be
         "book_name": "Full-Stack Web Development",
         "category": "Motivational",
         "release_year": 2014,
